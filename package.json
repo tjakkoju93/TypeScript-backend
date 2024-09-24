@@ -1,0 +1,32 @@
+{
+  "name": "typescript-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/lodash": "^4.17.7",
+    "@types/mongoose": "^5.11.97",
+    "body-parser": "^1.20.3",
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "lodash": "^4.17.21",
+    "mongoose": "^8.6.3",
+    "nodemon": "^3.1.6",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2"
+  },
+  "devDependencies": {
+    "@types/compression": "^1.7.5",
+    "@types/cookie-parser": "^1.4.7",
+    "@types/cors": "^2.8.17"
+  }
+}
